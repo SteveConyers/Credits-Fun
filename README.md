@@ -1,4 +1,4 @@
-#CreditsFun.c
+# CreditsFun
 
 This program calculates tuition based on how many credits a student has completed.
 By use of if statements, the proper tuition rates are obtained by the number of credits.
