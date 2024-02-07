@@ -1,3 +1,5 @@
+#CreditsFun.c
+
 This program calculates tuition based on how many credits a student has completed.
 By use of if statements, the proper tuition rates are obtained by the number of credits.
 Once tuition charge is calculated, the option to enter another students information is there with by ways of a while loop.
