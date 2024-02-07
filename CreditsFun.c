@@ -8,10 +8,10 @@ Updated: 2/7/2024 */
 void printHeading       (void);
 int getCreditsRegister	(void);
 int getCreditsCompleted	(void);
-float getTuitionRate	  (int);
+float getTuitionRate	(int);
 void printTuitionCharge	(int, float);
-char getAgain			      (void);
-void printFinal			    (void);
+char getAgain		(void);
+void printFinal		(void);
 //---------------------------------------------------------------------------------
 //Globals
 int count = 0;
