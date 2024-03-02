@@ -1,6 +1,6 @@
-//CreditsFun.c by Steven Conyers
-Created: 3/15/2021
-Updated: 2/7/2024 */
+/* CreditsFun.c by Steven Conyers
+   Created: 3/15/2021
+   Updated: 2/7/2024 */
 
 #include <stdio.h>
 
